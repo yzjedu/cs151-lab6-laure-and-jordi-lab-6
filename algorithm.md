@@ -1,5 +1,5 @@
 # Algorithm Document
-#### PLEASE! PLEASE! PLEASE! THINK before you code...
+
 1. Initialize variables:
     1. INITIAL_BALANCE = 1000
     2. SENTINEL = 'E'
@@ -17,6 +17,7 @@
   'V' - View Balance
   'E' - Exit
 
+
 * Purpose: Get a valid user choice from the menu
 * Name: get_user_choice
 * Parameters: None
@@ -27,6 +28,7 @@
      1. Output an error message.
      2. Prompt the user to enter a valid option.
   3. Return the valid choice.
+
 
 * Purpose: Get a positive amount from the user for deposit/withdrawal
 * Name: get_positive_amount
@@ -39,6 +41,7 @@
      2. Prompt the user to enter a positive number.
   3. Return the positive amount. 
 
+
 * Purpose: Handle the deposit operation and update balance
 * Name: deposit
 * Parameters: balance (current balance)
@@ -49,6 +52,7 @@
   3. Output a success message showing the new balance. 
   4. Return the updated balance.
  
+
 * Purpose: Handle the withdrawal operation, apply penalties if necessary, and update balance
 * Name: withdraw
 * Parameters: balance (current balance)
@@ -60,6 +64,7 @@
   4. If the balance is negative:
      1. Output a warning about the 5% penalty.
   5. Return the updated balance.
+
 
 * Purpose: Display the current balance to the user
 * Name: view_balance
