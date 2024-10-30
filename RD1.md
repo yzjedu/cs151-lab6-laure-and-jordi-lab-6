@@ -1,4 +1,3 @@
-ENCRYPTED:
 # Mzagzxodji Yjxphzio
 
 * Ymdqz Apgg Ivhz  : 
