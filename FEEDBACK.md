@@ -64,7 +64,7 @@
 - Nothing to grade here. 
 - I believe you forgot to push your code 
 - 
-### Grade: N
+### Grade: E
 
-### Participation Grade: U
+### Participation Grade: S
  - If participation grade is unsatisfactory check the `NO` in the documents sections
